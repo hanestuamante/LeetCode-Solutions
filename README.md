@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
