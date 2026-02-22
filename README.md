@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0868-binary-gap) |
+## Hash Table
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
