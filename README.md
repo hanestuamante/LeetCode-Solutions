@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
