@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
