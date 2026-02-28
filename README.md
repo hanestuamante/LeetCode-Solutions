@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 <!---LeetCode Topics End-->
