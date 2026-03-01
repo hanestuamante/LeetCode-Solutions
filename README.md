@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 ## Two Pointers
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
