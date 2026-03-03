@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1656-design-an-ordered-stream](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
 ## Queue
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
