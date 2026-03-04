@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
