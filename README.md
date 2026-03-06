@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Sorting
 |  |
 | ------- |
