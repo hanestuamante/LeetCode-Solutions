@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Design
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 <!---LeetCode Topics End-->
