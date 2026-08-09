@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0696-count-binary-substrings](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
