@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0977-squares-of-a-sorted-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0977-squares-of-a-sorted-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
