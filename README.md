@@ -68,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0925-long-pressed-name](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0925-long-pressed-name](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
