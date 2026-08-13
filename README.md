@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0436-find-right-interval](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [1187-make-array-strictly-increasing](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Monotonic Stack
 |  |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hanestuamante/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
